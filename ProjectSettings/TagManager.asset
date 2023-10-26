@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grow
+  - BG
+  - MG
+  - LG
+  - BS
+  - LS
+  - RT
+  - LT
+  - PL
+  - CMB
+  - LKS
+  - LKF
+  - RailS
+  - RailF
+  - RailDeath
+  - RightTurn
+  - LeftTurn
+  - TRMPLN
+  - ENDLVL
+  - IgloS
+  - IgloF
+  - CamChange
+  - ADS
+  - ADF
+  - ADJS
+  - ADJF
+  - RIDER
+  - RIDERF
+  - AfterRailEnd
+  - HMN
+  - TurnS
+  - TurnF
+  - AfterRail
+  - ENDBNLVL
+  - ENDGAME
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - bbb
+  - aaa
+  - Combiner
+  - Agent
+  - Humans Texture 1
+  - Humans Texture 2
+  - Humans Texture 3
+  - Humans Texture 4
+  - Humans Texture 5
+  - Humans Texture 6
+  - Humans Texture 7
+  - Tree
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

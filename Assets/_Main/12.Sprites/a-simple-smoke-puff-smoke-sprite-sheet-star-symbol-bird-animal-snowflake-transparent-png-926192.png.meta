@@ -1,0 +1,1147 @@
+fileFormatVersion: 2
+guid: fd1580aeccb33e147a3e2be40a463e8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2026955114301046297
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_0
+  - first:
+      213: -5851635270673518352
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_1
+  - first:
+      213: 1661491694204131992
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_2
+  - first:
+      213: 8491536892555783922
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_3
+  - first:
+      213: -2484410031815379274
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_4
+  - first:
+      213: -3159435545999190694
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_5
+  - first:
+      213: -4200679464953191012
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_6
+  - first:
+      213: 1777990646231724595
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_7
+  - first:
+      213: 134727275772725963
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_8
+  - first:
+      213: 974139355519425876
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_9
+  - first:
+      213: 7314144924037874126
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_10
+  - first:
+      213: -5931437359148275787
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_11
+  - first:
+      213: -4180548471676779363
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_12
+  - first:
+      213: 4262694533903990973
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_13
+  - first:
+      213: 7572328424842659550
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_14
+  - first:
+      213: 1807339610259902076
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_15
+  - first:
+      213: 4036571847648100687
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_16
+  - first:
+      213: -5394884956186224346
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_17
+  - first:
+      213: -6817408229506870738
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_18
+  - first:
+      213: -8006418064538024051
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_19
+  - first:
+      213: 710688630809148106
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_20
+  - first:
+      213: 7138465830047765060
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_21
+  - first:
+      213: -4212875384757717222
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_22
+  - first:
+      213: -7220006998738688208
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_23
+  - first:
+      213: -585853685351037119
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_24
+  - first:
+      213: 4940100471794128762
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_25
+  - first:
+      213: -8130645554271694089
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_26
+  - first:
+      213: 9166744026152752458
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_27
+  - first:
+      213: 7172807515284500603
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_28
+  - first:
+      213: 685389196585813361
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_29
+  - first:
+      213: 1984904066693180833
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_30
+  - first:
+      213: 4543697959677137022
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_31
+  - first:
+      213: 6932436837310520472
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_32
+  - first:
+      213: 6230841988667292721
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_33
+  - first:
+      213: 4928618864921318590
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_34
+  - first:
+      213: 4663382103412267514
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_35
+  - first:
+      213: -6692852282312612502
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_36
+  - first:
+      213: -3711711850015920494
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_37
+  - first:
+      213: -6568324490214772887
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_38
+  - first:
+      213: -1300996181121521272
+    second: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_39
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1cc64101fced3e0800000000000000
+      internalID: -2026955114301046297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0bb5089b0dacea0800000000000000
+      internalID: -5851635270673518352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a9c4694edce0710800000000000000
+      internalID: 1661491694204131992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe69ed40dff7d570800000000000000
+      internalID: 8491536892555783922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b63a313d3a958dd0800000000000000
+      internalID: -2484410031815379274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55d9fd3c1e6724d0800000000000000
+      internalID: -3159435545999190694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95ef24684034b5c0800000000000000
+      internalID: -4200679464953191012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_7
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332fb929211bca810800000000000000
+      internalID: 1777990646231724595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca4df55eb5aed100800000000000000
+      internalID: 134727275772725963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d96772596d48d00800000000000000
+      internalID: 974139355519425876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec101017e00118560800000000000000
+      internalID: 7314144924037874126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b76c70e52d4fada0800000000000000
+      internalID: -5931437359148275787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9447638055bbf5c0800000000000000
+      internalID: -4180548471676779363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0c8570812282b30800000000000000
+      internalID: 4262694533903990973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6075d1590561960800000000000000
+      internalID: 7572328424842659550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec802ccc5f41910800000000000000
+      internalID: 1807339610259902076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41486175b8c40830800000000000000
+      internalID: 4036571847648100687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629db6637b48125b0800000000000000
+      internalID: -5394884956186224346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e221b6fd553b361a0800000000000000
+      internalID: -6817408229506870738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87c0fba03d73e090800000000000000
+      internalID: -8006418064538024051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acab9495b8fdcd900800000000000000
+      internalID: 710688630809148106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442d249e9dce01360800000000000000
+      internalID: 7138465830047765060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177788882cd885c0800000000000000
+      internalID: -4212875384757717222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_23
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a85c43e16dcb90800000000000000
+      internalID: -7220006998738688208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1474c4a5d21aed7f0800000000000000
+      internalID: -585853685351037119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7757009433ce8440800000000000000
+      internalID: 4940100471794128762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2d60742f42a2f80800000000000000
+      internalID: -8130645554271694089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45d4c1df11d63f70800000000000000
+      internalID: 9166744026152752458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f8c69e6eea8360800000000000000
+      internalID: 7172807515284500603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_29
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175436bc7ddf28900800000000000000
+      internalID: 685389196585813361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_30
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada9707bbbcb8b10800000000000000
+      internalID: 1984904066693180833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_31
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70193588357e0f30800000000000000
+      internalID: 4543697959677137022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cd9bbe296f43060800000000000000
+      internalID: 6932436837310520472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c3a1ab6c5687650800000000000000
+      internalID: 6230841988667292721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb49ce4aeb8f56440800000000000000
+      internalID: 4928618864921318590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af95dcdb059a7b040800000000000000
+      internalID: 4663382103412267514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65289a3f463e13a0800000000000000
+      internalID: -6692852282312612502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_37
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e6137ecb95d7cc0800000000000000
+      internalID: -3711711850015920494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fef373daf98d4a0800000000000000
+      internalID: -6568324490214772887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_39
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889ac12cddee1fde0800000000000000
+      internalID: -1300996181121521272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e628866e4f874e04f9815c5dcb707d69
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_12: -4180548471676779363
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_32: 6932436837310520472
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_2: 1661491694204131992
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_34: 4928618864921318590
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_30: 1984904066693180833
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_38: -6568324490214772887
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_13: 4262694533903990973
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_28: 7172807515284500603
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_4: -2484410031815379274
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_17: -5394884956186224346
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_33: 6230841988667292721
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_24: -585853685351037119
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_6: -4200679464953191012
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_1: -5851635270673518352
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_10: 7314144924037874126
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_20: 710688630809148106
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_25: 4940100471794128762
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_35: 4663382103412267514
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_0: -2026955114301046297
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_23: -7220006998738688208
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_31: 4543697959677137022
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_7: 1777990646231724595
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_3: 8491536892555783922
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_9: 974139355519425876
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_11: -5931437359148275787
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_29: 685389196585813361
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_22: -4212875384757717222
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_36: -6692852282312612502
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_21: 7138465830047765060
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_16: 4036571847648100687
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_14: 7572328424842659550
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_26: -8130645554271694089
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_15: 1807339610259902076
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_18: -6817408229506870738
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_19: -8006418064538024051
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_39: -1300996181121521272
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_5: -3159435545999190694
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_37: -3711711850015920494
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_27: 9166744026152752458
+      a-simple-smoke-puff-smoke-sprite-sheet-star-symbol-bird-animal-snowflake-transparent-png-926192_8: 134727275772725963
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
